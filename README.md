@@ -1,10 +1,10 @@
 # Nikola Tesla Quote Generator
 
 ## Table of Contents
-[General Info](#General Info)
-[Technologies](#Technologies)
-[Setup](#Setup)
-[Sources](#Sources)
+[General Info](#General Info) <br>
+[Technologies](#Technologies) <br>
+[Setup](#Setup) <br>
+[Sources](#Sources) <br>
 
 ## General Info
 This project prints out random Nikola Tesla quotes to the console.
@@ -13,12 +13,12 @@ This project prints out random Nikola Tesla quotes to the console.
 The project is written in javascript and is run with Node.js
 
 ## Setup
-To run the program, first install [Node.js](https://nodejs.org/en/download/), then run the script.js file.
+To run the program, first [install Node.js](https://nodejs.org/en/download/), then run the script.js file in node.
 It can be done in git bash as shown below.
 ```
 $ node script.js
 ```
 
 ## Sources
-This project was part of my [Codecademy](codecademy.com) course.
-I got the Nikola Tesla quotes from [goodreads](https://www.goodreads.com/author/quotes/278.Nikola_Tesla).
+* This project was part of my [Codecademy](codecademy.com) course. 
+* I got the Nikola Tesla quotes from [goodreads](https://www.goodreads.com/author/quotes/278.Nikola_Tesla).
