@@ -1,12 +1,12 @@
 # Nikola Tesla Quote Generator
 
 ## Table of Contents
-[General Info](#General Info) <br>
+[General info](#General-information) <br>
 [Technologies](#Technologies) <br>
 [Setup](#Setup) <br>
 [Sources](#Sources) <br>
 
-## General Info
+## General information
 This project prints out random Nikola Tesla quotes to the console.
 
 ## Technologies
